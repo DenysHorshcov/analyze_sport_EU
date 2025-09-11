@@ -1,4 +1,4 @@
-# **Sport Participation in EU**: Demographic Trends and Personal Drivers
+# **Sport Participation in the EU**: Demographic Trends and Personal Drivers
 
 ## Project Background
 This project analyzes data from the Eurobarometer 97.3 (2022) survey to understand how different population groups across the European Union engage in sport and physical activity.
